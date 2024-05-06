@@ -1,0 +1,63 @@
+/* PremiumProgram.css */
+.premium {
+    display: flex;
+    gap: 29px;
+    justify-content: center;
+    flex-direction: column;
+    margin: 50px;
+    
+    border-radius: 16px;
+    align-items: center;
+}
+.cart{
+    display: flex;
+    gap: 40px;
+}
+
+
+
+
+
+/* Styling for the Loyalty Card form */
+form {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+   
+}
+
+/* Style for form labels */
+.forme  {
+    background-color: aliceblue;
+    height: 200px;
+    width: 80%;
+    border-radius: 16px;
+    padding: 40px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: flex-start;
+    align-content: center;
+    flex-wrap: wrap;
+    margin: 100px;
+}
+
+/* Style for form inputs and selects */
+input,
+select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+}
+
+/* Style for the submit button */
+button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}

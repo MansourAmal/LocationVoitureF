@@ -1,0 +1,104 @@
+.find__cars-left {
+  background: linear-gradient(rgb(0, 13, 107, 0.5), rgb(0, 13, 107, 0.5)),
+    url("../../assets/img/tesla.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 65px 35px;
+  color: #fff;
+  font-weight:800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+  .hero__form {
+    position: absolute;
+    bottom: 60px;
+    z-index: 11;
+    width: 100%;
+  }
+  
+  .form__row {
+    background: #fff;
+    box-shadow: 5px 5px 15px -5px #7c8a97;
+  }
+  
+  .codeInput{
+    border: none;
+    border-bottom: 1px solid #000d6b; /* Couleur de soulignement */
+    outline: none; /* Supprimer la bordure d'activation */
+  }
+  
+  .find__car {
+    background: #000d6b !important;
+    color: #fff !important;
+    width: 30%;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+  }
+  .form{
+    display: flex;
+    flex-direction: column;
+  }
+  .form_item{
+    width: 50%;
+    margin-top: 10px;
+  }
+  .premium a{
+      text-decoration: none;
+      color: #d42f2e;
+  }
+  @media only screen and (max-width: 992px) {
+    .form {
+      padding: 30px 10px;
+      display: flex;
+      flex-direction: column;
+      
+    }
+  
+    .form__group input,
+    .select__group select {
+      padding: 7px 10px;
+      font-size: 0.8rem;
+    }
+  
+    .hero__form {
+      bottom: -100px;
+    }
+  }
+  
+  
+  @media only screen and (max-width: 768px) {
+    .find__cars-left {
+      padding-top: 20px;
+      padding-bottom: 0;
+      background: #fff;
+      text-align: center;
+    }
+  
+    .form {
+      padding: 20px 10px;
+    }
+  }
+  
+  @media only screen and (max-width: 576px) {
+    .form__group {
+      width: 100%;
+      margin: auto;
+      margin-bottom: 15px;
+    }
+  
+    .form__group input {
+      font-size: 0.7rem !important;
+    }
+
+    .find__car-btn {
+      font-size: 0.8rem;
+    }
+  
+    .hero__form {
+      bottom: -250px;
+    }
+  }

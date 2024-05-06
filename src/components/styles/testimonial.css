@@ -1,0 +1,41 @@
+
+.rate i{
+  color: #ffc069;
+}
+.card-title h1{
+  color: rgb(95, 95, 255);
+  display: flex;
+  justify-content: space-around;
+}
+.testimonial-area{
+  display: contents;
+  
+}
+.avis a{
+  text-decoration: none;
+  color: rgb(95, 95, 255);
+  display: flex;
+  justify-content: center;
+}
+.avis a:hover{
+  color: rgb(95, 95, 255);
+}
+@media only screen and (max-width: 768px) {
+    .testimonial p {
+      font-size: 0.8rem;
+      line-height: 1.5rem;
+      
+    }
+  
+    .testimonial h6 {
+      font-size: 1rem;
+
+    }
+    .card-title h1{
+        font-size: 1.8rem;
+        line-height: 1.5rem;
+        margin-top: 80px;
+    }
+  }
+  
+  

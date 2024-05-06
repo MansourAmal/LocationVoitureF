@@ -1,0 +1,25 @@
+.single__member { 
+  
+  border-radius: 4px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  margin-bottom: 16px;
+  overflow: hidden;
+  transition: box-shadow 0.3s;
+  }
+  .single__member:hover{
+    box-shadow: 0 4px 16px #000c6b7a;
+  }
+  .titre{
+    display:flex;
+    justify-content: center;
+    color: #000d6b;
+  }
+  .custom-h6{
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 8px;
+   
+  }
+ 
+
+ 

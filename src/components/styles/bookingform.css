@@ -1,0 +1,100 @@
+.infobouking{
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  box-shadow: 0 4px 16px rgba(182, 182, 182, 0.1);
+}
+
+.bookform{
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  border-radius: 4px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  margin-bottom: 16px;
+  overflow: hidden;
+  transition: box-shadow 0.3s;
+  
+  
+}
+.booking__form {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-content: center;
+  
+}
+.part{
+  display: flex;
+  flex-direction: row;
+  gap: 9px;
+  justify-content: flex-start;
+}
+.booking__form input ,select{
+  padding: 8px 15px;
+  border: 1px solid #7c8a972a;
+  color: #01070d;
+  width: 100%;
+}
+.op{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 4px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  margin-bottom: 16px;
+  overflow: hidden;
+  transition: box-shadow 0.3s;
+  width: 100%;
+  
+}
+.textarea:focus,
+.booking__form input:focus,
+.booking__form select:focus {
+  outline: none;
+}
+
+@media only screen and (max-width: 768px) {
+  .booking__form {
+    width: 100%;
+  }
+
+  .booking__form input,
+  .textarea,
+  .booking__form select {
+    font-size: 0.8rem;
+  }
+}
+.payment{
+  display: flex;
+  flex-direction: row;
+}
+.rad{
+  display: flex;
+  
+}
+.Available-options{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 16px;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+.resume-card{
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+  overflow: hidden;
+  transition: box-shadow 0.3s;
+  margin-bottom: 16px;
+}
+
+.btn-confirm{
+  width: 30%;
+  height: auto;
+  color: azure;
+  font-size: large;
+  margin-left: 65%;
+  border-radius: 5px;
+  margin-top: 20px;
+}
