@@ -1,10 +1,28 @@
-![image](https://github.com/user-attachments/assets/39a30581-46e9-4b01-a0fa-c74ab67fb37e)
+
 # Car Rental Platform - Algeria
 
 This is a **Car Rental Platform** developed to allow users to conveniently reserve cars online across multiple locations in Algeria. The application is structured with a **React front-end** and a **Node.js/Express back-end** connected to **MongoDB** for data storage.
 
-![Uploading Capture d'écran 2024-02-15 151257.png…]()
-![Uploading Capture d'écran 2024-02-15 151319.png…]()
+![image](https://github.com/user-attachments/assets/39a30581-46e9-4b01-a0fa-c74ab67fb37e)
+![Capture d'écran 2024-02-15 151319](https://github.com/user-attachments/assets/1e0d2743-0b14-4bdd-aa9c-4b5a877aaa3a)
+![Capture d'écran 2024-02-15 151330](https://github.com/user-attachments/assets/db58cda4-cdb8-48a9-b80a-53bf59d9da05)
+![Capture d'écran 2024-02-15 151341](https://github.com/user-attachments/assets/334d30eb-7602-45a5-b0f8-e88e42d6bd88)
+![Capture d'écran 2024-02-15 151353](https://github.com/user-attachments/assets/29aee2c2-3fae-42f6-922b-623580ca7401)
+![Capture d'écran 2024-02-15 152151](https://github.com/user-attachments/assets/d8e4d3ef-99a8-4f1f-aefb-736a2cd90dd2)
+![Capture d'écran 2024-02-15 152209](https://github.com/user-attachments/assets/0deecdd4-c7bd-4d25-a382-4a18402abb5a)
+![Capture d'écran 2024-02-15 152444](https://github.com/user-attachments/assets/243592a5-db21-4c5e-9f86-70347ac1ce40)
+![Capture d'écran 2024-02-15 152452](https://github.com/user-attachments/assets/6178fe40-cf3b-476e-a4c8-d7bcc771cebe)
+![Capture d'écran 2024-02-15 152624](https://github.com/user-attachments/assets/4003de28-3090-4374-8105-572625c2c9a1)
+![Capture d'écran 2024-02-15 152718](https://github.com/user-attachments/assets/9ca25d06-951d-473a-8488-1d07c8b6df72)
+![Capture d'écran 2024-02-15 153751](https://github.com/user-attachments/assets/18b290e4-3337-4acb-aec8-ca10ad70e145)
+![Capture d'écran 2024-02-15 153813](https://github.com/user-attachments/assets/42713993-bba0-4565-ba83-5c52eca5d136)
+![Capture d'écran 2024-02-15 153825](https://github.com/user-attachments/assets/e01be8cb-0be7-49e8-9a50-fe89291a6e5b)
+![Capture d'écran 2024-02-15 153839](https://github.com/user-attachments/assets/1e859c95-f05f-46d6-a4d4-c01cb59d5f29)
+![Capture d'écran 2024-02-15 153935](https://github.com/user-attachments/assets/85d1d7aa-4076-4e35-82a6-b4ddd8c52ac6)
+![Capture d'écran 2024-02-15 153948](https://github.com/user-attachments/assets/35f673c7-c56c-4ed4-a4f7-125a49b6a892)
+![Capture d'écran 2024-02-15 154005](https://github.com/user-attachments/assets/87a2fdb2-b9bb-421c-8812-a98e251adc51)
+![Capture d'écran 2024-02-15 154031](https://github.com/user-attachments/assets/d1263989-0708-47c4-9031-c735c102b366)
+
 
 
 ## Key Features
