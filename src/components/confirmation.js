@@ -31,7 +31,7 @@ const Confirmation = () => {
         <Space direction="vertical" style={{ width: '100%' }}>
           <Alert
             message="Success"
-            description={`Check your email for further information about your account Adresse and Password.
+            description={`Votre réservation est effectuée avec succées Merci de choisir Safar El Amir.
             `}           
             type="success"
             showIcon

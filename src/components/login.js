@@ -27,6 +27,7 @@ const LoginPage = () => {
 
       // Stocker le jeton localement (exemple: dans les cookies ou localStorage)
       // ...
+      localStorage.setItem('userName', data.userName);
 
       console.log('Login successful!');
       navigate('/dashbord'); 

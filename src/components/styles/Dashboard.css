@@ -1,0 +1,103 @@
+
+table {
+    width: 80%;
+    margin: auto;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: rgb(21, 21, 177);
+    color: white;
+  }
+  
+  .h {
+    height: 5%;
+    justify-content: center;
+    display: flex;
+    margin: 20px;
+    color: white;
+    background: linear-gradient(to right, rgb(1, 1, 93), red);
+  }
+  button {
+    background-color: #007bff; 
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  
+  button.delete {
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  
+  button.add {
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  
+  button.edit {
+    background-color: #63aefd;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  
+  button.refresh {
+    background-color: #63aefd;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    opacity: 0.8;
+  }
+  .FA{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items:center;
+    margin-bottom: 10px;
+    gap: 20px;
+
+  }
+  input{
+    width: 250px;
+    border-radius: 10px;
+    padding: 18px;
+  }
+  select{
+    width: 250px;
+    border-radius: 10px;
+  }
+  
+
+
+ 
