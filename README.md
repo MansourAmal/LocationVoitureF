@@ -1,7 +1,11 @@
-
+![image](https://github.com/user-attachments/assets/39a30581-46e9-4b01-a0fa-c74ab67fb37e)
 # Car Rental Platform - Algeria
 
 This is a **Car Rental Platform** developed to allow users to conveniently reserve cars online across multiple locations in Algeria. The application is structured with a **React front-end** and a **Node.js/Express back-end** connected to **MongoDB** for data storage.
+
+![Uploading Capture d'écran 2024-02-15 151257.png…]()
+![Uploading Capture d'écran 2024-02-15 151319.png…]()
+
 
 ## Key Features
 
@@ -84,7 +88,7 @@ Located in the `back` folder, the back-end provides a RESTful API that handles a
 This project includes UML diagrams for the system structure and workflow, created with StarUML. Refer to the `docs` folder for detailed diagrams.
 
 ## Back-End Repository Link
-For further details on the back-end setup, visit the separate back-end repository here: [[Back-End Repository](https://github.com/username/back-repo-link).](https://github.com/MansourAmal/LocationVoitureB)
+For further details on the back-end setup, visit the separate back-end repository here: (https://github.com/MansourAmal/LocationVoitureB)
 
 ## Usage
 
@@ -96,20 +100,3 @@ Once both front-end and back-end servers are running:
 ## Contact
 For questions or feedback, please reach out to the project maintainer, or submit an issue on GitHub.
 
----
-
-This documentation provides an overview of the system functionality and setup, with links to key resources for a seamless project experience.
-```
-
-### Étapes pour ajouter cette description dans le `README.md`
-
-1. Dans le dossier `carRental/front`, créez ou éditez le fichier `README.md`.
-2. Copiez la description ci-dessus et enregistrez-la dans le fichier.
-3. Ajoutez et poussez le fichier sur GitHub :
-   ```bash
-   git add README.md
-   git commit -m "Add complete project documentation to README.md"
-   git push origin main
-   ```
-
-Cette description permettra aux utilisateurs de bien comprendre le projet, ses fonctionnalités, et la manière de le déployer.
