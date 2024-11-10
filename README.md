@@ -103,7 +103,11 @@ Located in the `back` folder, the back-end provides a RESTful API that handles a
    ```
 
 ### UML Diagrams
-This project includes UML diagrams for the system structure and workflow, created with StarUML. Refer to the `docs` folder for detailed diagrams.
+This project includes UML diagrams for the system structure and workflow, created with StarUML.
+![image](https://github.com/user-attachments/assets/a7f0d015-4d32-4580-986f-a4b808303ab7)
+![image](https://github.com/user-attachments/assets/36d63517-70d7-4f49-bf79-d19f58bec174)
+![image](https://github.com/user-attachments/assets/06809706-29c5-48c7-9507-ceb169058468)
+
 
 ## Back-End Repository Link
 For further details on the back-end setup, visit the separate back-end repository here: (https://github.com/MansourAmal/LocationVoitureB)
